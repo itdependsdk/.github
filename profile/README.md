@@ -12,7 +12,7 @@ We chase actionable explanations, not mindless modelling.
 
 <p align="right"><b>It depends ApS</b><br>
 VAT: DK44107244<br>
-Guldbergsgade 57, st. th.<br>
+<a href="https://maps.app.goo.gl/sVqSw7iiBbGk2SSx9" target="_blank">Guldbergsgade 57, st. th.</a><br>
 2200 Copenhagen, Denmark<br>
 <a href="mailto:projects@itdepends.dk">projects@itdepends.dk</a><br>
 <a href="https://linkedin.com/company/itdepends-dk" target="_blank">LinkedIn</a>
