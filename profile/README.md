@@ -1,3 +1,5 @@
+<a href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](https://raw.githubusercontent.com/itdependsdk/.github/main/profile/typewriter.svg)</a>
+
 # We are a strategic social data science consultancy, helping companies and organisations navigate complexity.
 
 Data science is too powerful to leave to engineers. There, we said it. Working at the intersection of social research, data science, and business strategy, we are social data scientists.
