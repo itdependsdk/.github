@@ -1,12 +1,26 @@
-# We are a strategic social data science consultancy, helping companies and organisations navigate complexity
+# It depends — strategic social data science
 
-Data science is too powerful to leave to engineers. There, we said it. Working at the intersection of social research, data science, and business strategy, we are social data scientists.
+_Helping companies and organisations navigate complexity_
 
-We do global market research, experimental designs, natural language processing, behavioural economics, predictive analytics using machine learning, and much more. It depends.
+**Our principles**
 
-We chase actionable explanations, not mindless modelling.
+Data science is too powerful to leave to engineers. Crafting metrics that meaningfully capture human behaviour while remaining relevant to decision-makers requires an interdisciplinary perspective.
 
-**Let us talk about your business challenge.**
+Working at the intersection of social research, data science, and business strategy, we are 𝘴𝘰𝘤𝘪𝘢𝘭 𝘥𝘢𝘵𝘢 𝘴𝘤𝘪𝘦𝘯𝘵𝘪𝘴𝘵𝘴.
+
+This is how we make elusive social phenomena tangible: by chasing actionable explanations rather than mindless modelling.
+
+**Our procedure**
+
+1. Understand the strategic context of the challenge.
+2. Build a robust research design from clear conceptual thinking.
+3. Discover solutions through computational pattern recognition and human interpretation.
+
+**Our people**
+
+Working with us means collaborating directly with our founding partners. We dedicate a small, high-performing team to solving your challenge end to end.
+
+Based in a former butcher's shop in the heart of Copenhagen, Denmark, our experts quantify human needs, attitudes, and desires across a range of industries worldwide.
 
 [![It depends — Strategic social data science](https://github.com/itdependsdk/.github/blob/main/profile/LI_itdepends_lighter.png?raw=true)](https://itdepends.dk/)
 
