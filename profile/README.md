@@ -1,4 +1,4 @@
-# We are a strategic social data science consultancy, helping companies and organisations navigate complexity.
+# We are a strategic social data science consultancy, helping companies and organisations navigate complexity
 
 Data science is too powerful to leave to engineers. There, we said it. Working at the intersection of social research, data science, and business strategy, we are social data scientists.
 
@@ -8,11 +8,11 @@ We chase actionable explanations, not mindless modelling.
 
 **Let us talk about your business challenge.**
 
-<br><a href="https://www.itdepends.dk" rel="itdepends.dk">![itdepends.dk](https://raw.githubusercontent.com/itdependsdk/.github/main/profile/typewriter.svg)</a>
+[![It depends — Strategic social data science](https://github.com/itdependsdk/.github/blob/main/profile/LI_itdepends_lighter.png?raw=true)](https://itdepends.dk/)
 
 <p align="right"><b>It depends ApS</b><br>
 VAT: DK44107244<br>
-<a href="https://maps.app.goo.gl/sVqSw7iiBbGk2SSx9" target="_blank">Guldbergsgade 57, st. th.</a><br>
+<a href="https://maps.app.goo.gl/sVqSw7iiBbGk2SSx9" target="_blank">Guldbergsgade 57</a><br>
 2200 Copenhagen, Denmark<br>
 <a href="mailto:projects@itdepends.dk">projects@itdepends.dk</a><br>
 <a href="https://linkedin.com/company/itdepends-dk" target="_blank">LinkedIn</a>
