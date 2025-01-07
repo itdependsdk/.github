@@ -22,7 +22,7 @@ Working with us means collaborating directly with our founding partners. We dedi
 
 Based in a former butcher's shop in the heart of Copenhagen, Denmark, our experts quantify human needs, attitudes, and desires across a range of industries worldwide.
 
-[![It depends — Strategic social data science](https://github.com/itdependsdk/.github/blob/main/profile/LI_itdepends_lighter.png?raw=true)](https://itdepends.dk/)
+[![Data science is too powerful to leave to engineers](https://github.com/itdependsdk/.github/blob/main/profile/LI_itdepends_lighter.png?raw=true)](https://itdepends.dk/)
 
 <p align="right"><b>It depends ApS</b><br>
 VAT: DK44107244<br>
