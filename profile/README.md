@@ -6,7 +6,7 @@ _Helping companies and organisations navigate complexity_
 
 Data science is too powerful to leave to engineers. Crafting metrics that meaningfully capture human behaviour while remaining relevant to decision-makers requires an interdisciplinary perspective.
 
-Working at the intersection of social research, data science, and business strategy, we are 𝘴𝘰𝘤𝘪𝘢𝘭 𝘥𝘢𝘵𝘢 𝘴𝘤𝘪𝘦𝘯𝘵𝘪𝘴𝘵𝘴.
+Working at the intersection of social research, data science, and business strategy, we are _social data scientists_.
 
 This is how we make elusive social phenomena tangible: by chasing actionable explanations rather than mindless modelling.
 
