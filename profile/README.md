@@ -6,6 +6,42 @@ Uncover the social and psychological drivers of desired customer behaviour. Carv
 
 Ever been in a boardroom where everyone trusts their own gut feeling about what your target audience needs? We bring the numbers.
 
+## We advise leaders across strategy, product, marketing, and insights
+
+### Business strategy
+
+Guiding brand positioning, mapping stakeholder landscapes, assessing market potential, informing customer acquisition strategy, identifying expansion opportunities.
+
+### Product innovation
+
+Identifying consumer pain points, building needs-based customer segments, assessing product-market fit, uncovering feature preferences, refining value propositions.
+
+### GTM & marketing
+
+Guiding market entry, targeting psychographic consumer segments, informing pricing strategy, A/B testing messaging and campaign assets, tracking brand reputation.
+
+### CX & customer success
+
+Designing bespoke evaluation frameworks, improving customer retention through behavioural insights, locating efficiency gains in current service delivery and customer support.
+
+### Advocacy & mobilisation
+
+Professionalising non-profits’ donor acquisition, community-building, and membership growth, demonstrating social impact to stakeholders, powering advocacy and fundraising efforts.
+
+### In-house insights capacity
+
+Establishing learning agendas and data strategy, building research repositories and customer insights engines, upskilling and supporting in-house insights teams.
+
+## Your boutique consumer insights partner
+
+We left traditional consulting to found the human-centric insights consultancy that nobody else was going to.
+
+Based in a former butcher’s shop in Copenhagen, we help businesses make sense of the human needs that drive consumer behaviour.
+
+Partnering with us means dealing exclusively with trusted senior experts. We plug directly into your team, we move fast, and we execute projects from end to end.
+
+Read more at [itdepends.dk](https://itdepends.dk/)
+
 [![Denmark's best consumer insights consultancy](https://github.com/itdependsdk/.github/blob/main/profile/itdepends_swirl.png?raw=true)](https://itdepends.dk/)
 
 <p align="right"><b>It depends ApS</b><br>
