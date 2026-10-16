@@ -1,29 +1,12 @@
-# It depends — strategic social data science
+# It depends: We quantify human needs to unlock growth opportunities
 
-_Helping companies and organisations navigate complexity_
+We partner with B2C companies, non-profits, and public institutions to design offerings that meet human needs.
 
-**Our principles**
+Uncover the social and psychological drivers of desired customer behaviour. Carve out high-impact market segments. Design products, services, and communications to serve unmet needs.
 
-Data science is too powerful to leave to engineers. Crafting metrics that meaningfully capture human behaviour while remaining relevant to decision-makers requires an interdisciplinary perspective.
+Ever been in a boardroom where everyone trusts their own gut feeling about what your target audience needs? We bring the numbers.
 
-Working at the intersection of social research, data science, and business strategy, we are _social data scientists_.
-
-This is how we make elusive social phenomena tangible: by chasing actionable explanations rather than mindless modelling.
-
-**Our procedure**
-
-1. Understand the strategic context of the challenge.
-2. Build a robust research design from clear conceptual thinking.
-3. Discover solutions through computational pattern recognition and human interpretation.
-
-**Our people**
-
-Working with us means collaborating directly with our founding partners. We dedicate a small, high-performing team to solving your challenge end to end.
-
-Based in a former butcher's shop in the heart of Copenhagen, Denmark, our experts quantify human needs, attitudes, and desires across a range of industries worldwide.
-
-[![Data science is too powerful to leave to engineers](https://github.com/itdependsdk/.github/blob/main/profile/itdepends_swirl.png?raw=true)](https://itdepends.dk/)
-
+[![Denmark's best consumer insights consultancy](https://github.com/itdependsdk/.github/blob/main/profile/itdepends_swirl.png?raw=true)](https://itdepends.dk/)
 
 <p align="right"><b>It depends ApS</b><br>
 VAT: DK44107244<br>
