@@ -44,6 +44,13 @@ Read more at [itdepends.dk](https://itdepends.dk/)
 
 [![Denmark's best consumer insights consultancy](https://github.com/itdependsdk/.github/blob/main/profile/itdepends_swirl.png?raw=true)](https://itdepends.dk/)
 
+---
+
+### Specialties
+_consumer insights, market research, consumer segmentation, human-centred innovation, go-to-market strategy, business strategy, data strategy, insigths upskilling, AI literacy, behavioural insigths, psychographic segmentation, A/B testing, data mining, text-as-data, and social impact assessment_
+
+---
+
 <p align="right"><b>It depends ApS</b><br>
 VAT: DK44107244<br>
 <a href="https://maps.app.goo.gl/sVqSw7iiBbGk2SSx9" target="_blank">Guldbergsgade 57</a><br>
